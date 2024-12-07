@@ -31,7 +31,7 @@ placeholder="search for your favourits foods from menu"/>
 <FaCartShopping className=" w-8 h-8 text-sk rounded-full ring-2 p-1 relative hover:text-amber-400"/>
 <img
 className="inline-block w-10 h-10 rounded-full ring-2 ring-sky-400 hover:text-amber-400"
-src="https://img.freepik.com/free-vector/detailed-chef-logo-template_23-2148987940.jpg"
+src="images/sheef.jpg"
 alt="user avtar"/>
 </div>
       </div>

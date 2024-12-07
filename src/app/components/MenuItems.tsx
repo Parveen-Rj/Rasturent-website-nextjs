@@ -4,12 +4,12 @@ import { TbBackground } from "react-icons/tb";
 
 const ProducCardGrid = () => {
     const productImages = [
-    "https://i.pinimg.com/236x/66/77/c3/6677c3721448f20d5afdb86bf4043f32.jpg",
-    "https://i.pinimg.com/236x/9d/8f/de/9d8fdeb849f2b910c264f8a6a43b6229.jpg",
-"https://i.pinimg.com/564x/c4/3e/ab/c43eab1f5c1aa79d1f44547636b45228.jpg",
-"https://i.pinimg.com/564x/12/30/54/123054c53254bc0925ff7be1c3361b67.jpg",
-"https://i.pinimg.com/564x/ed/62/82/ed62826d50c671794e074c22a27288aa.jpg",
-"https://i.pinimg.com/564x/86/f1/53/86f1530e08d8662c56436a8e0a93a7e3.jpg",
+    "/images/beef pulao.jpg",
+    "/images/beter chikan.jpg",
+"/images/chapli kabab.jpg",
+"/images/Chicken Tikka.jpg",
+"/images/haleem.jpg",
+"/images/paya.jpg",
 ];
 return (
 <div className="relative text-center p-10">

@@ -38,7 +38,7 @@ const floningImageContentBlock = () => {
         </ul>
         </div>
         <div className="md:w-1/2 mt-4 md:mt-0">
-<img src="https://i.pinimg.com/564x/ac/ed/3e/aced3ef65b8141406cd2147eaba04aa9.jpg"
+<img src="/images/food.jpg"
 alt="delicious burger"
 className="w-full h-auto rounded-lg shadow-lg transition-transform duration-500 ease-in-out transform hover:scale-105 mr-7"/>
         </div>

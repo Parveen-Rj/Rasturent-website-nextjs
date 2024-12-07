@@ -1,4 +1,5 @@
 import React from "react";
+
 export default function Footer() {
     return (
       <div > 
@@ -11,16 +12,16 @@ export default function Footer() {
 </nav>
 <div className="flex justify-center space-x-5 transition-transform duration-500 case-in-out transform hover:scale-105">
 <a href="" target="blank" rel="nofollow noopener">
-<img src="https://img.icons8.com/?size=48&id=118497&format=png" alt="facebook logo"/>
+<img src="/images/facebook.PNG" alt="facebook logo"/>
 </a>
-<a href="https://www.linkedin.com/in/parveenmalik071297/" target="blank" rel="nofollow noopener">
-<img src="https://img.icons8.com/?size=48&id=13930&format=png" alt="linkedln"/>
-</a>
-<a href="" target="blank" rel="nofollow noopener">
-<img src="https://img.icons8.com/?size=48&id=32323&format=png" alt="insta logo"/>
+<a href="https://www.linkedin.com/in/parveenmalik071297/" target="blank" rel="follow noopener">
+<img src="/images/linkedin.PNG" alt="linkedln"/>
 </a>
 <a href="" target="blank" rel="nofollow noopener">
-<img src="https://img.icons8.com/?size=48&id=13963&format=png" alt="twitter logo"/>
+<img src="/images/Instagram4.jpg" alt="insta logo" className="w-9 h-auto"/>
+</a>
+<a href="" target="blank" rel="nofollow noopener">
+<img src="/images/twitter3.JPG" alt="twitter logo"className="w-9 h-auto"/>
 </a>
 </div>
 <p className="text-center hover:text-cyan-600 text-amber-400 font-medium mb-8">2024 Parveen Malik.All Right Reserved</p>

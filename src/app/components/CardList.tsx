@@ -11,7 +11,7 @@ export default function CardList() {
                 className="group relative flex flex-col overflow-hidden rounded-lg px-4 pb-4 pt-40 flex-grow"
               >
                 <img
-                  src="https://i.pinimg.com/564x/a5/a0/94/a5a09430ee9703547d893f1d74dc5b2d.jpg"
+                  src="/images/biryani.jpg"
                   alt="food 1"
                   className="absolute inset-0 h-full w-full object-cover group-hover:scale-105 transition-transform duration-500 ease-in-out"
                 />
@@ -27,7 +27,7 @@ export default function CardList() {
                 className="group relative flex flex-col overflow-hidden rounded-lg px-4 pb-4 pt-40 mb-4"
               >
                 <img
-                  src="https://i.pinimg.com/736x/5c/62/2e/5c622ec2d2fd2c78adfe486e791aa9fa.jpg"
+                  src="/images/chikan white karahi.jpg"
                   alt="food 2"
                   className="absolute inset-0 h-full w-full object-cover group-hover:scale-105 transition-transform duration-500 ease-in-out"
                 />
@@ -42,7 +42,7 @@ export default function CardList() {
                   className="group relative flex flex-col overflow-hidden rounded-lg px-4 bp-4 pt-40"
                 >
                   <img
-                    src="https://i.pinimg.com/564x/5b/d1/9f/5bd19fb15894177580d692df6ccd997e.jpg"
+                    src="/images/tandori.jpg"
                     alt="food 3"
                     className="absolute inset-0 h-full w-full object-cover group-hover:scale-105 transition-transform duration-500 ease-in-out"
                   />
@@ -56,7 +56,7 @@ export default function CardList() {
                   className="group relative flex flex-col overflow-hidde"
                 >
                   <img
-                    src="https://i.pinimg.com/564x/ad/81/06/ad810682e06a21e259f6cb2a09a61a6d.jpg"
+                    src="/images/fish3.jpg"
                     alt="food 4"
                     className="absolute inset-0 h-full w-full object-cover group-hover:scale-105 transition-transform duration-500 ease-in-out"
                   />
@@ -74,14 +74,14 @@ export default function CardList() {
                 className="group relative flex flex-col overflow-hidden rounded-lg px-4 pb-4 pt-40 flex-grow"
               >
                 <img
-                  src="https://i.pinimg.com/736x/84/0b/4f/840b4fb242464d98e0070210b75b4378.jpg"
+                  src="/images/korma.jpg"
                   alt="food 4"
                   className="absolute inset-0 h-full w-full object-cover group-hover:scale-105 transition-transform duration-500 ease-in-out"
                 />
                 <div className="absolute inset-0 bg-gradient-to-b from-grey-900/25 to-grey-900/5"></div>
                 <h3 className="z-10 text-2xl font-medium text-white absolute top-0 left-0 p-4 xs:text-xl md:text-0xl">
                   {" "}
-                  Shawerma
+                  Korma
                 </h3>
               </a>
             </div>

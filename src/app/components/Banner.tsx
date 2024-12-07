@@ -4,7 +4,7 @@ export default function Banner() {
     <div className="relative overflow-hidden bg-gradient-to-r from-black to-grey-700 font-sans px-6 py-12 mb-7">
       <div className="absolute inset-0 opacity-20">
         <img
-          src="https://i.pinimg.com/474x/1b/f3/03/1bf303bc6d5ad64804409a63f297883d.jpg"
+          src="/images/masala1.jpg"
           alt="delicious foods banner"
           className="w-full h-full object-cover"
         />

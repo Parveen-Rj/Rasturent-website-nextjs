@@ -11,7 +11,7 @@ import Card from "./components/Card";
 import Reservation from "./components/Reservation";
 import Progres from "../app/components/Progres";
 import Food from "../app/components/Food";
-import TestImonals from "./components/TestImonals";
+
 
 
 export default function App() {
@@ -29,7 +29,7 @@ export default function App() {
     <Reservation/>
     <Footer/>
     
-    <TestImonals/>
+   
     </div>
   )
 }
